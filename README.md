@@ -6,8 +6,8 @@ Our solution is a modified variation of the Gale-Shapley Stable Matching algorit
 
 ## Team Members
 - Jarren Shaw-Flores
--
--
+- Nicholas Carrasquilla
+- Alan Lopez
 - Eduardo Arellano-Pacheco
 
 ## How to Run
