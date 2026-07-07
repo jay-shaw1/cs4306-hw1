@@ -1,5 +1,5 @@
 def match_residents(hospitals, residents):
-
+    
     # All residents start unmatched
     free_residents = list(residents.keys())
 
